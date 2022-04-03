@@ -1,0 +1,4 @@
+name: 'EyeCue GitHub Actions Cache Helper'
+runs:
+  using: 'node16'
+  main: 'index.js'
